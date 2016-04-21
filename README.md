@@ -1,2 +1,2 @@
 # IdentityCompletoNHibernate
-Complete project using ASPNET MVC, Identity and NHibernate.
+Complete project using C#, ASPNET MVC, Identity and NHibernate.
